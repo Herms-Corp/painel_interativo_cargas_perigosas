@@ -5,6 +5,7 @@ Projeto acadêmico em parceria com o IPEM (Instituto de Pesos e Medidas) e o CAD
 # Índice
 * [Objetivo do Projeto](#objetivo-do-projeto)
 * [Equipe](#Equipe)
+* [Tecnologias](#Tecnologias-Utilizadas)
 * [Backlog do produto](#Product-Backlog)
 * [Competências desenvolvidas](#competências-desenvolvidas)
 * [Registro das Sprints](#Registro-das-Sprints)
@@ -36,11 +37,12 @@ Desenvolver um dashboard interativo com dados agregados de fluxo de cargas espec
 * quais as principais empresas movimentadores de cargas perigosas com declaração realizada.
 
 
-## Tecnologias Utilizadas
+# Tecnologias Utilizadas
 
-
-
-
+* Python3+
+* Github
+* Power BI
+* Office
 
 # Product Backlog
 

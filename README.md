@@ -28,22 +28,17 @@ Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da 
 
 
 # Objetivo do Projeto
-Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma GitHub, visando:
-* Centralizar os trabalhos e projetos;
-* Organizar e estruturar as informações;
-* Versionar e controlar as alterações;
-* Facilitar o compartilhamento e feedback;
-* Desenvolver habilidades técnicas.
+Desenvolver um dashboard interativo com dados agregados de fluxo de cargas especiais e perigosas. O sistema deve apresentar métricas por estado, como:
+* quais são as principais cargas movimentadas;
+* principais modais de transporte;
+* matriz OD (Origem e Destino);
+* evolução da movimentação ao longo do tempo;
+* quais as principais empresas movimentadores de cargas perigosas com declaração realizada.
 
 
 ## Tecnologias Utilizadas
 
-* Jira Software
-* Power BI
-* Microsoft Excel
-* Slack
-* Python (Colab)
-* Mysql
+
 
 
 

@@ -63,8 +63,8 @@ Desenvolver um dashboard interativo com dados agregados de fluxo de cargas espec
 
 | Sprint            | Previsão   | Status   | Histórico |
 |-------------------|------------|----------|-----------|
-| 01                | dd/mm/aaaa | a fazer  | [MVP](MVP/sp1.md)  |
-| 02                | dd/mm/aaaa | a fazer  | [MVP](MVP/sp2.md)  |
-| 03                | dd/mm/aaaa | a fazer  | [MVP](MVP/sp3.md)  |
-| Feira de Soluções | dd/mm/aaaa | a fazer  | [MVP](#)  |
+| 01                | 29/04/2026 | a fazer  | [MVP](MVP/sp1.md)  |
+| 02                | 20/04/2026 | a fazer  | [MVP](MVP/sp2.md)  |
+| 03                | 10/06/2026 | a fazer  | [MVP](MVP/sp3.md)  |
+| Feira de Soluções | 18/06/2026 | a fazer  | [MVP](#)  |
 

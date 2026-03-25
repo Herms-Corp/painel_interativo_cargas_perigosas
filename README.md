@@ -1,6 +1,6 @@
-# Herms Corp
+# HermsCorp
 
-Projeto acadêmico em parceria com o IPEM (Instituto de Pesos e Medidas) e o CADI (Centro de Aprendizagem em Desenvolvimento e Integração) baseada na metodologia ÁGIL SCRUM, que busca desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos.
+ Projeto acadêmico em parceria com o IPEM (Instituto de Pesos e Medidas) e o CADI (Centro de Aprendizagem em Desenvolvimento e Integração) baseada na metodologia ÁGIL SCRUM, que busca desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos.
 
 # Índice
 * [Objetivo do Projeto](#objetivo-do-projeto)
@@ -12,9 +12,8 @@ Projeto acadêmico em parceria com o IPEM (Instituto de Pesos e Medidas) e o CAD
 
 
 # Projeto (API) 
-Projeto pedagógico alicerçado na Metodologia API para ensino-aprendizado focado no desenvolvimento de competências e fundamentada nos pilares de aprendizado com problemas reais (RPBL), validação externa e mentalidade ágil. 
-Uso de estratégias para entender o problema, conceber uma solução viável ao desenvolver e implementar o MVP seguido de sua operação (CDIO). 
-Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da Fatec SJC com definição das datas do kickoff e das sprint
+ Projeto pedagógico alicerçado na Metodologia API para ensino-aprendizado focado no desenvolvimento de competências e fundamentada nos pilares de aprendizado com problemas reais (RPBL), validação externa e mentalidade ágil. Uso de estratégias para entender o problema, conceber uma solução viável ao desenvolver e implementar o MVP seguido de sua operação (CDIO). 
+ Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da Fatec SJC com definição das datas do kickoff e das sprints.
 
 # Equipe
 
@@ -29,12 +28,13 @@ Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da 
 
 
 # Objetivo do Projeto
-Desenvolver um dashboard interativo com dados agregados de fluxo de cargas especiais e perigosas. O sistema deve apresentar métricas por estado, como:
+ Desenvolver um dashboard interativo com dados agregados de fluxo de cargas especiais e perigosas. O sistema deve apresentar métricas por estado, como:
+ 
 * quais são as principais cargas movimentadas;
 * principais modais de transporte;
 * matriz OD (Origem e Destino);
 * evolução da movimentação ao longo do tempo;
-* quais as principais empresas movimentadores de cargas perigosas com declaração realizada.
+* quais as principais empresas movimentadoras de cargas perigosas com declaração realizada.
 
 
 # Tecnologias Utilizadas

@@ -47,17 +47,22 @@
 
 # Product Backlog
 
-| Rank | Prioridade | User Story                                                                                                                                              | Estimativa | Sprint |
-|------|------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|------------|--------|
-| 1    | Alta       | Como síndico, quero abrir solicitações de vistoria predial para atender à legislação de meu município                                                    | 5          | 1      |
-| 2    | Alta       | Como atendente, quero gerenciar as solicitações de vistoria para agendar atendimento                                                                    | 8          | 1      |
-| 3    | Alta       | Como síndico, quero receber o laudo da vistoria predial para anexar ao processo de auditoria da prefeitura                                               | 5          | 2      |
-| ...  | Média      | ...                                                                                                                                                     | ...        | ...    |
-| 17   | Baixa      | Como atendente, quero um relatório de aniversários dos funcionários do condomínio que utilizam o sistema para enviar cartões acompanhados de brindes     | 2          | 3      |
-
-
-
-
+| Rank | Prioridade | User Story  | Estimativa | Sprint |
+|------|------------|-------------|------------|--------|
+| 1  | Alta  | Como desenvolvedor, quero limpar e normalizar os dados do IBAMA, para garantir confiabilidade.                                                 | 20  | 1   |
+| 1  | Alta  | Como usuário, quero ver um dashboard com dados gerais de cargas especiais e perigosas, para ter uma visão rápida do cenário                    | 13  | 1   |
+| 2  | Alta  | Como usuário, quero filtrar dados por período (2013 a 2025), para avaliar a evolução temporal.                                                 | 05  | 1   | 
+| 3  | Alta  | Como usuário, quero visualizar cargas por estado, para identificar regiões críticas.                                                           | 13  | 1   |
+| 4  | Média | Como usuário, quero ver mapa interativo, para facilitar a interpretação dos dados.                                                             | 20  | 1   |
+| 6  | Alta  | Como analista, quero identificar os principais tipos de cargas perigosas, para priorizar fiscalização.                                         | 08  | 1   |
+| 8  | Alta  | Como usuário, quero ver os modais utilizados, para avaliar riscos logísticos.                                                                  | 05  | 2   |
+| 9  | Alta  | Como analista, quero visualizar a matriz origem-destino (OD), para entender fluxos logísticos.                                                 | 20  | 2   |
+| 10 | Média | Como usuário, quero visualizar gráficos de tendência, para identificar crescimento ou queda.                                                   | 20  | 2   |
+| 12 | Alta  | Como gestor, quero ver as empresas que mais transportam cargas perigosas, para priorizar inspeções.                                            | 13  | 2   |
+| 13 | Média | Como analista, quero comparar estados, para identificar padrões e discrepâncias.                                                               | 13  | 2   |
+| 14 | Média | Como usuário, quero dashboard rápido, para não perder tempo.                                                                                   | 05  | 3   |
+| 15 | Média | Como usuário, quero acessar dados com poucos cliques, para ganhar eficiência.                                                                  | 05  | 3   |
+| 16 | Baixa | Como usuário, quero acessar via celular/tablet, para consultar em campo.                                                                       | 03  | 3   |
 
   
 # Registro das Sprints

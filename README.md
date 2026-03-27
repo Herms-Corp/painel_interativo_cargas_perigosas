@@ -49,7 +49,7 @@
 
 | Rank | Prioridade | User Story  | Estimativa | Sprint |
 |------|------------|-------------|------------|--------|
-| 1  | Alta  | Como desenvolvedor, quero limpar e normatizar os dados do IBAMA, para garantir confiabilidade.                                                 | 20  | 1   |
+| 1  | Alta  | Como desenvolvedor, quero limpar e normalizar os dados do IBAMA, para garantir confiabilidade.                                                 | 20  | 1   |
 | 1  | Alta  | Como usuário, quero ver um dashboard com dados gerais de cargas especiais e perigosas, para ter uma visão rápida do cenário                    | 13  | 1   |
 | 2  | Alta  | Como gestor público, quero filtrar dados por período (2013 a 2025), para avaliar a evolução temporal.                                          | 05  | 1   | 
 | 3  | Alta  | Como gestor público, quero visualizar cargas por estado, para identificar regiões críticas.                                                    | 13  | 1   |

@@ -1,10 +1,8 @@
 # 📌 MVP - [Nome do Projeto]
 
 ## 🎯 Objetivo do MVP
-> Descrever de forma clara qual é o propósito do MVP:  
-- Qual problema resolve?  
-- Qual hipótese será validada?  
-- Qual valor será entregue ao usuário final?  
+O objetivo desse MVP é entregar um dashboard que apresente a visualização das principais cargas especiais e periogosas movimentadas do ano de 2013 até 2024 identificando as principais origens e destinos dessas cargas. Com isso poderá ser criadas ou melhoradas políticas de fiscalizações para aumentar a efetividade dessas fiscalizações. 
+Com essa ferramenta será possível avaliar se alguma cidade deve ter mais prioridade para vistorias devido a sua forte movimentação. Isso pode aumenta a produtividade da equipe de fiscais e a segurança aos civis nas estradas. 
 
 ---
 
@@ -24,9 +22,13 @@
 
 ## 🔑 User Stories (Backlog do MVP)
 | ID  | User Story                                                                 | Prioridade | Estimativa |
-|-----|-----------------------------------------------------------------------------|------------|------------|
-| US1 | Como [tipo de usuário], quero [objetivo] para [benefício esperado].         | Alta       | 5 pontos   |
-| US2 | Como [tipo de usuário], quero [objetivo] para [benefício esperado].         | Média      | 3 pontos   |
+|-----|----------------------------------------------------------------------------|------------|------------|
+| US | Como desenvolvedor, quero dados tratados e padronizados, para garantir a confiabilidade dos dados.                     | Alta    | 5 pontos   |
+| US | Como analista, quero dados apenas dos anos de 2013 a 2025, para avaliar a evolução temporal.                           | Média   | 3 pontos   |
+| US | Como gestor, quero filtrar por cargas, para localizar as principais origens e destinos de cada produto                 |         |            |
+| US | Como gestor, quero rankings de cidades de origens e destinos, para priorizar inspeções.                                |         |            |
+| US | Como gestor, quero um mapa interativo, para identificar rapidamente as cidades que mais exportas ou exportam           |         |            |
+| US | Como                                                                                                                   |         |            |
 
 ---
 

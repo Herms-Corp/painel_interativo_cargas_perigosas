@@ -7,8 +7,8 @@ Com essa ferramenta será possível avaliar se alguma cidade deve ter mais prior
 ---
 
 ## 📝 Descrição da Solução
-> Breve explicação do que será desenvolvido e entregue nesta etapa.  
-- Funcionalidades principais incluídas  
+> Será desenvolvido um dashboard interativo que mostrará informações principais sobre as movimentações das cargas periogosas entre os Estados.  
+- Evolução por tipo de produtos, ranking de Estados e cidades que mais recebem ou enviam produtos periogosos.  
 - Limitações conhecidas  
 - Escopo reduzido (somente o essencial para validar a ideia)  
 
@@ -26,8 +26,8 @@ Com essa ferramenta será possível avaliar se alguma cidade deve ter mais prior
 | US | Como desenvolvedor, quero dados tratados e padronizados, para garantir a confiabilidade dos dados.                     | Alta    | 5 pontos   |
 | US | Como analista, quero dados apenas dos anos de 2013 a 2025, para avaliar a evolução temporal.                           | Média   | 3 pontos   |
 | US | Como gestor, quero filtrar por cargas, para localizar as principais origens e destinos de cada produto                 |         |            |
-| US | Como gestor, quero rankings de cidades de origens e destinos, para priorizar inspeções.                                |         |            |
-| US | Como gestor, quero um mapa interativo, para identificar rapidamente as cidades que mais exportas ou exportam           |         |            |
+| US | Como gestor, quero rankings de cidades e estados de origens e destinos, para priorizar inspeções.                      |         |            |
+| US | Como gestor, quero um mapa interativo, para facilitar a visualização de dados                                          |         |            |
 | US | Como                                                                                                                   |         |            |
 
 ---
@@ -35,8 +35,7 @@ Com essa ferramenta será possível avaliar se alguma cidade deve ter mais prior
 ## 📅 Sprint(s) Relacionadas
 | Sprint | Entregas Principais                          | Status   |
 |--------|----------------------------------------------|----------|
-| 01     | [Funcionalidade X, Y]                        | Concluído|
-| 02     | [Funcionalidade Z]                           | Em andamento |
+| 01     | Dashboard interativos com dados gerais de cargas periogosas                       | em andamento |
 
 ---
 

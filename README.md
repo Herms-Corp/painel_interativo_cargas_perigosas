@@ -51,7 +51,7 @@
 | Rank | Prioridade | User Story  | Estimativa | Sprint |
 |------|------------|-------------|------------|--------|
 | 1  | Alta  | Como gestor público, quero ver um dashboard com dados gerais de cargas especiais e perigosas, para ter uma visão rápida do cenário             | 13  | 1   |
-| 2  | Alta  | Como gestor público, visualizar as cargas transportadas na série histótica (2013 a 2025), para avaliar a variação temporal.                    | 05  | 1  | 
+| 2  | Média  | Como fiscal, visualizar as cargas transportadas na série histótica (2013 a 2025), para avaliar a variação temporal.                           | 08  | 1  | 
 | 3  | Alta  | Como gestor público, quero visualizar cargas por estado, para identificar regiões críticas.                                                    | 13  | 1   |
 | 4  | Média | Como fiscal, quero ver mapa interativo, das matrizes de OD( origem destino) para facilitar a interpretação dos dados.                          | 20  | 1   |
 | 5  | Alta  | Como analista, quero identificar os principais tipos de cargas perigosas, para priorizar fiscalização.                                         | 08  | 1   |
@@ -60,7 +60,7 @@
 | 8  | Média | Como gestor público, quero visualizar gráficos de tendência, para identificar crescimento ou queda.                                            | 20  | 2   |
 | 9 | Alta  | Como gestor público, quero ver as empresas que mais transportam cargas perigosas, para priorizar inspeções.                                    | 13  | 2   |
 | 10 | Média | Como analista, quero comparar estados, para identificar padrões e discrepâncias.                                                               | 13  | 2   |
-| 11 | Média | Como usuário, quero um dashboard rápido, para melhorar a usabilidade e eficiência de busca.                                                    | 05  | 3   |
+| 11 | Média | Como analista, quero um dashboard rápido, para melhorar a usabilidade e eficiência de busca.                                                    | 05  | 3   |
 | 12 | Média | Como usuário, quero acessar dados com poucos cliques, para ganhar eficiência.                                                                  | 05  | 3   |
 | 13 | Baixa | Como fiscal, quero acessar via celular/tablet, para consultar em campo.                                                                        | 03  | 3   |
 

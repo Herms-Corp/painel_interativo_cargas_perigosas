@@ -70,7 +70,7 @@
 | Sprint            | Previsão   | Status   | Histórico |
 |-------------------|------------|----------|-----------|
  |00                 | 01/04/2026 | concluído| [VÍDEO](https://www.youtube.com/@HermesCorpFatec)|
-| 01                | 29/04/2026 | em andamento  | [MVP](MVP/sp1.md)  |
+| 01                | 29/04/2026 | concluído  | [MVP](MVP/sp1.md)  |
 | 02                | 20/04/2026 | a fazer  | [MVP](MVP/sp2.md)  |
 | 03                | 10/06/2026 | a fazer  | [MVP](MVP/sp3.md)  |
 | Feira de Soluções | 18/06/2026 | a fazer  | [MVP](#)  |

@@ -45,7 +45,7 @@ O objetivo deste MVP é criar mecanismos que facilitem a visualização do dashb
 ---
 
 ## 📈 Métricas de Validação
-- Número de usuários que testaram o MVP: 7 Usuários 
+- Número de usuários que testaram o MVP: 8 Usuários 
 
 ---
 

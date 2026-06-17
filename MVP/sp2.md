@@ -37,20 +37,18 @@ O objetivo deste MVP é entregar um dashboard atualizado que apresente a visuali
 | Sprint | Entregas Principais                          | Status   |
 |--------|----------------------------------------------|----------|
 | 01     |Foi desenvolvido um dashboard interativo que mostra informações principais sobre as movimentações das cargas periogosas entre os Estados. | Concluído|
-| 03     |O MVP deve manter as caracteristicas gerais anteriores(Funcionalidades) e facilitar a usuabilidade e disposição dos gráficos e métricas alcançadas.
- | Em andamento |
+| 03     |O MVP deve manter as caracteristicas gerais anteriores(Funcionalidades) e facilitar a usuabilidade e disposição dos gráficos e métricas alcançadas. | Em andamento |
 
 ---
 
 ## 📊 Critérios de Aceitação
-- O MVP deve permitir que o usuário [ação principal]  
-- O sistema deve registrar [evento importante]  
-- Métricas coletadas: [exemplo: tempo de resposta, taxa de uso]  
+- O MVP deve permitir que o usuário realize uma análise geral das principais origens e destinos e suas movimentações, dos principais produtos transportados, suas quantidades e das empresas responsáveis por esses transportes.
+
 
 ---
 
 ## 📈 Métricas de Validação
-- Número de usuários que testaram o MVP  
+- Número de usuários que testaram o MVP: 8 usuários 
 - Feedback qualitativo (positivo/negativo)  
 - Indicadores de negócio (exemplo: % de adesão, redução de custo, etc.)  
 

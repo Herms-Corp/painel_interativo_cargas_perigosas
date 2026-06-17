@@ -1,18 +1,15 @@
-# 📌 MVP - [Nome do Projeto]
+# 📌 MVP - PAINEL INTERATIVO DE CARGAS PERIGOSAS E ESPECIAIS
 
 ## 🎯 Objetivo do MVP
-> Descrever de forma clara qual é o propósito do MVP:  
-- Qual problema resolve?  
-- Qual hipótese será validada?  
-- Qual valor será entregue ao usuário final?  
+O objetivo deste MVP é criar mecanismos que facilitem a visualização do dashboard e apresentem a trajetória e os objetivos do projeto, mantendo todos os requisitos iniciais relacionados às principais cargas perigosas transportadas entre 2013 e 2024, além de identificar o fluxo geográfico dessas cargas. Essas implementações facilitam a visualização e aumentam a eficiência do dashboard, tornando seu uso mais prático e melhorando sua usabilidade.
 
 ---
 
 ## 📝 Descrição da Solução
-> Breve explicação do que será desenvolvido e entregue nesta etapa.  
-- Funcionalidades principais incluídas  
-- Limitações conhecidas  
-- Escopo reduzido (somente o essencial para validar a ideia)  
+
+- Atualização e estruturação dos Gráficos
+- Aperfeiçoamento do design do Projeto
+
 
 ---
 
@@ -25,41 +22,37 @@
 ## 🔑 User Stories (Backlog do MVP)
 | ID  | User Story                                                                 | Prioridade | Estimativa |
 |-----|-----------------------------------------------------------------------------|------------|------------|
-| US1 | Como [tipo de usuário], quero [objetivo] para [benefício esperado].         | Alta       | 5 pontos   |
-| US2 | Como [tipo de usuário], quero [objetivo] para [benefício esperado].         | Média      | 3 pontos   |
+| US1 | Como analista, quero um dashboard rápido, para melhorar a usabilidade e eficiência de busca| Alta  | 5 pontos   |
+| US2 | Como usuário, quero acessar dados com poucos cliques, para ganhar eficiência. | Média   | 3 pontos |
+| US3 | Como fiscal, quero acessar via celular/tablet, para consultar em campo. | Baixa   | 2 pontos |
 
 ---
 
 ## 📅 Sprint(s) Relacionadas
 | Sprint | Entregas Principais                          | Status   |
 |--------|----------------------------------------------|----------|
-| 01     | [Funcionalidade X, Y]                        | Concluído|
-| 02     | [Funcionalidade Z]                           | Em andamento |
+| 01     | Dashboard interativos com dados gerais de cargas periogosas  | Concluído|
+| 02     |Limpeza e reestruturação da base de dados central | Concluído |
 
 ---
 
 ## 📊 Critérios de Aceitação
-- O MVP deve permitir que o usuário [ação principal]  
-- O sistema deve registrar [evento importante]  
-- Métricas coletadas: [exemplo: tempo de resposta, taxa de uso]  
+- O MVP deve manter as caracteristicas gerais anteriores(Funcionalidades) e facilitar a usuabilidade e disposição dos gráficos e métricas. 
 
 ---
 
 ## 📈 Métricas de Validação
-- Número de usuários que testaram o MVP  
-- Feedback qualitativo (positivo/negativo)  
-- Indicadores de negócio (exemplo: % de adesão, redução de custo, etc.)  
+- Número de usuários que testaram o MVP: 7 Usuários 
 
 ---
 
 ## 🚀 Próximos Passos
-- Melhorias planejadas após feedback  
-- Ajustes de usabilidade  
-- Expansão de funcionalidades para próximo incremento  
+-Preparações para a Feira de Soluções
+-Pesquisas e análises que complementem o trabalho.
 
----
 
 ## 📂 Anexos / Evidências
-- Prints de tela  
-- Fluxos ou protótipos  
-- Vídeo (MVP)  
+
+Capturas de tela (prints)
+Fluxos ou protótipos
+Vídeo do MVP

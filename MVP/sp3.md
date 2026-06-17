@@ -6,6 +6,7 @@ O objetivo deste MVP é criar mecanismos que facilitem a visualização do dashb
 ---
 
 ## 📝 Descrição da Solução
+> Foi desenvolvido um dashboard interativo que mostra informações principais sobre as movimentações das cargas periogosas entre os Estados.
 
 - Atualização e estruturação dos Gráficos
 - Aperfeiçoamento do design do Projeto
@@ -14,8 +15,10 @@ O objetivo deste MVP é criar mecanismos que facilitem a visualização do dashb
 ---
 
 ## 👥 Personas / Usuários-Alvo
-- **Persona 1:** breve descrição, necessidades e dores atendidas  
-- **Persona 2:** breve descrição, necessidades e dores atendidas  
+
+- A persona desta sprint é composta pelo IPEM e por  órgãos regulatórios responsáveis pelo acompanhamento e fiscalização do transporte de cargas perigosas. O dashboard foi desenvolvido para apoiar a análise de padrões de movimentação, fluxos logísticos e tendências relacionadas ao transporte dessas cargas, fornecendo informações consolidadas de forma clara, intuitiva e acessível.
+
+- A persona também pode incluir acadêmicos e pesquisadores da área, interessados em compreender os fluxos de transporte de cargas perigosas. O dashboard permite a exploração de dados históricos, a identificação de tendências e a realização de análises sobre a dinâmica dessas movimentações no período de 2013 a 2024.
 
 ---
 
@@ -37,7 +40,7 @@ O objetivo deste MVP é criar mecanismos que facilitem a visualização do dashb
 ---
 
 ## 📊 Critérios de Aceitação
-- O MVP deve manter as caracteristicas gerais anteriores(Funcionalidades) e facilitar a usuabilidade e disposição dos gráficos e métricas. 
+- O MVP deve manter as caracteristicas gerais anteriores(Funcionalidades) e facilitar a usuabilidade e disposição dos gráficos e métricas alcançadas. 
 
 ---
 
@@ -47,8 +50,8 @@ O objetivo deste MVP é criar mecanismos que facilitem a visualização do dashb
 ---
 
 ## 🚀 Próximos Passos
--Preparações para a Feira de Soluções
--Pesquisas e análises que complementem o trabalho.
+- Preparações para a Feira de Soluções
+- Pesquisas e análises que complementem o trabalho.
 
 
 ## 📂 Anexos / Evidências

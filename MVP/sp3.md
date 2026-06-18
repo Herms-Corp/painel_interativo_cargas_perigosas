@@ -56,6 +56,4 @@ O objetivo deste MVP é criar mecanismos que facilitem a visualização do dashb
 
 ## 📂 Anexos / Evidências
 
-Capturas de tela (prints)
-Fluxos ou protótipos
-Vídeo do MVP
+https://youtu.be/IvcsG_6wOiU
